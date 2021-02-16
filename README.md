@@ -7,9 +7,7 @@ Just a discord.js bot base
 
 $npm i discord.js
 
-And fill your token in 
-
-config.json 
+And fill your token in config.json 
 
 
 
